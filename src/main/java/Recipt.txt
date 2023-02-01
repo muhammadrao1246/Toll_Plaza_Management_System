@@ -1,0 +1,10 @@
+----Toll Plaza Receipt----
+
+Vehical Number  jsadjada
+Vehical Type    Car
+Cash Received   234
+Toll            100
+Cash Change     134
+Time            2023-02-01 16:53:54
+
+---------------------------
